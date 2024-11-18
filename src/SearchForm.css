@@ -1,0 +1,30 @@
+.search-form {
+	align-items: center;
+}
+
+
+.search-form input[type="text"] {
+	width: 713px;
+	height: 57px;
+	top: 242px;
+	left: 178px;
+	gap: 0px;
+	opacity: 0px;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	outline: 1;
+}
+
+.search-form button {
+	width: 233px;
+	height: 57px;
+	margin-left: 10px;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	background-color: red;
+	color: white;
+	cursor: pointer;
+}
